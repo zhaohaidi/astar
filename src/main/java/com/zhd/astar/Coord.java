@@ -8,9 +8,9 @@ package com.zhd.astar;
  */
 public class Coord {
 
-	private int x;
+	 int x;
 
-	private int y;
+	 int y;
 
 	public Coord(int x, int y) {
 		this.x = x;
